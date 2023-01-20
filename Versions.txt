@@ -1,0 +1,46 @@
+Sure, here is a summary of the main new features and improvements introduced in C++11, C++14, C++17 and C++20:
+
+C++11:
+
+- The introduction of a new keyword "auto" for type inference
+- The introduction of a new keyword "nullptr" to replace the use of NULL
+- The introduction of lambdas (anonymous functions)
+- The introduction of the "for each" loop
+- The introduction of new concurrency features such as thread and atomic
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+C++14:
+
+- The introduction of binary literals and digit separators
+- The introduction of generic (polymorphic) lambda expressions
+- The introduction of the "return type deduction" for normal functions
+- The introduction of the "relaxed constexpr" function
+- The introduction of the "make_unique" function
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+C++17:
+
+- The introduction of "structured bindings"
+- The introduction of "if constexpr" statement
+- The introduction of "fold expressions"
+- The introduction of "guaranteed copy elision"
+- The introduction of "inline variables"
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+C++20:
+
+- "Concepts" which are a new way to express constraints on template arguments
+- "Ranges" which are a set of new algorithms and views to simplify working with sequences of elements
+- "Modules" which is a new way to organize and manage code
+- "Coroutines" which are a new way to write non-preemptive, resumable functions
+- "The spaceship operator" which is a shorthand for three-way comparison
+- "Designated initializers" which is a way to initialize structs and arrays in a more readable way
+- "Template parameter lists for generic lambdas" which allows the use of template parameter lists with generic lambdas
+- "The format library" which is a new standard library for formatting text
+- "The std::jthread class" which is a new standard library for portable, joinable threads with destructors that block
+- It's important to note that not all compilers fully support all the new features of the latest standard yet, so you may need to 
+  check the documentation of your compiler to see which features are supported.
+
