@@ -1,0 +1,10 @@
+The Monte Carlo method is a computational method used to approximate solutions to mathematical problems.The method is used 
+to model and analyze systems that involve randomness, probability, or uncertainty.
+
+The idea behind the Monte Carlo method is to use random sampling to generate a large number of possible outcomes for a
+given problem, and then use statistical analysis to determine the most likely outcome. This is done by randomly generating
+a large number of inputs for a given problem, and then using these inputs to generate a large number of outputs. The 
+results are then analyzed to determine the most likely outcome.
+
+In finance, the Monte Carlo method is used to model the behavior of stock prices, interest rates, and other financial 
+variables, and to analyze the risk of different investment strategies.
