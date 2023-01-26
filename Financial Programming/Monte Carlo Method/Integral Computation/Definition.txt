@@ -1,0 +1,7 @@
+The Monte Carlo method for integral computation is a numerical technique that uses random sampling to approximate the value 
+of a definite integral. It works by generating a large number of random samples within the domain of the integral, evaluating 
+the function at each sample point, and then averaging the results to estimate the value of the integral. 
+
+This method is particularly useful for high-dimensional integrals, or for integrals where the function is not well-behaved or 
+is difficult to evaluate analytically. In the context of financial programming using C++, the Monte Carlo method can be used
+to estimate the value of financial derivatives, such as options, by simulating the underlying assets' price movements.
